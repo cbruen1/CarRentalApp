@@ -1,0 +1,12 @@
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\bin\Debug\net9.0\CarRentalApi.ModelsDTO.deps.json
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\bin\Debug\net9.0\CarRentalApi.ModelsDTO.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\bin\Debug\net9.0\CarRentalApi.ModelsDTO.pdb
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.csproj.AssemblyReference.cache
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.AssemblyInfoInputs.cache
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.AssemblyInfo.cs
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.csproj.CoreCompileInputs.cache
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\refint\CarRentalApi.ModelsDTO.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\CarRentalApi.ModelsDTO.pdb
+C:\repos\learn\general\CarRentalApi\CarRentalApi.ModelsDTO\obj\Debug\net9.0\ref\CarRentalApi.ModelsDTO.dll

@@ -1,0 +1,11 @@
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\bin\Debug\net9.0\CarRentalApi.IntegrationTests.deps.json
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\bin\Debug\net9.0\CarRentalApi.IntegrationTests.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\bin\Debug\net9.0\CarRentalApi.IntegrationTests.pdb
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.AssemblyInfoInputs.cache
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.AssemblyInfo.cs
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\refint\CarRentalApi.IntegrationTests.dll
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\CarRentalApi.IntegrationTests.pdb
+C:\repos\learn\general\CarRentalApi\CarRentalApi.IntegrationTests\obj\Debug\net9.0\ref\CarRentalApi.IntegrationTests.dll

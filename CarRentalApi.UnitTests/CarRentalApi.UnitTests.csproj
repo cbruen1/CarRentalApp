@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="xunit.v3" Version="3.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarRentalApi.Api\CarRentalApi.Api.csproj" />
+    <ProjectReference Include="..\CarRentalApi.Data\CarRentalApi.Data.csproj" />
+    <ProjectReference Include="..\CarRentalApi.ModelsDTO\CarRentalApi.ModelsDTO.csproj" />
+    <ProjectReference Include="..\CarRentalApi.Models\CarRentalApi.Models.csproj" />
+    <ProjectReference Include="..\CarRentalApi.Services\CarRentalApi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

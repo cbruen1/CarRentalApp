@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CarRentalApi.Models/1.0.0": {
+        "runtime": {
+          "CarRentalApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRentalApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
